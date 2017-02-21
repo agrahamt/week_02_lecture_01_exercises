@@ -1,1 +1,2 @@
-(http://codepen.io/agrahamt/pen/NdQEjp "Codepen for *selectors.css*")
+[Codepen for *selectors.css*](http://codepen.io/agrahamt/pen/NdQEjp)
+
