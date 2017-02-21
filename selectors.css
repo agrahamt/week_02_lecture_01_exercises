@@ -1,0 +1,12 @@
+ol:last-of-type > li:last-child {
+  font-weight:bold;
+}
+li:first-of-type {
+  color: purple;
+}
+ol:first-of-type > li:first-of-type {
+  font-size:larger;
+}
+h3:first-of-type {
+  color: red;
+}
