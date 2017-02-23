@@ -1,0 +1,23 @@
+
+div{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 500px;
+	margin: 3px 5px 5px 5px;
+	border: 1px solid red;
+	padding: 50px 30px 50px 40px;
+}
+h2{
+	font-size: 45px;
+	font-weight: bold;
+	padding-bottom: 12px;
+}
+ul{
+	font-size:32px;
+	padding-left:80px;
+}
+.blue-font{
+	color: blue;
+}
+.red-font{
+	color: red;
+}
