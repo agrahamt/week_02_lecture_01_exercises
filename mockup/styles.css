@@ -1,0 +1,19 @@
+    div{
+        background: #eee;
+        width: 80%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1{
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 65px;
+        letter-spacing: 25px;
+    }
+
+    p{
+        font-size:32px;
+        line-height: 58px;
+        word-wrap: break-word;
+    }
